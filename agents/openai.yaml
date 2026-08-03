@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design-First Product UI"
+  short_description: "Approve product UI direction before implementation"
+  default_prompt: "Use $design-first-product-ui to explore and approve the UX and visual direction before implementing this interface."
