@@ -168,6 +168,8 @@ Use [assets/templates/visual-acceptance.md](assets/templates/visual-acceptance.m
 
 If implementation materially departs from the contract, either correct it or request approval for a documented design change.
 
+For illustrated catalogs and long-form readers, use [book selection and reading continuity](references/illustrated-book-shelves.md).
+
 ## 12. Preserve preference boundaries
 
 After a successful project, ask before promoting a project-specific choice into the cross-project visual profile. Never silently turn one approved design into the default for every future product.
